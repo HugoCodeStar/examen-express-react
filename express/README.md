@@ -10,7 +10,6 @@ Vous devez créer une application qui a les ressources suivantes :
 * GET /quotes/count - Retourne le nombre de citations courantes.
 * GET /quotes/NOM AUTEUR - retourne une citation du NOM AUTEUR
   * Exemple : GET /quotes/Albert Einstein retourne une citation d'Albert Einstein
-* POST /quotes/ - Ajoute une citation dans la liste. Dois contenir la citation et l'auteur.
 
 # Élément fourni
 
@@ -19,3 +18,4 @@ Vous devez créer une application qui a les ressources suivantes :
 # Requis technique
 
 * L'application Express n'est pas fournie, c'est à vous de l'installer avec le express-generator.
+* Si un auteur a plusieurs citation, vous pouvez retourner une ou plusieurs de ses citations.

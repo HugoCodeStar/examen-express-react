@@ -1,8 +1,7 @@
 # Final partie 1 - Création d'une application React
 
 Ce projet a pour but de vous faire construire une
-application React avec des components, l'utilisation
-de props et de state.
+application React.
 
 # But
 Vous devez créé une application qui va afficher
@@ -12,12 +11,7 @@ La page principale doit avoir une saisie de texte et un bouton pour filtrer les 
 
 # Requis technique (minimum)
 * L'application React n'est pas fournie, c'est à vous de la créer avec create-react-app.
-* Un component pour la saisie du nom de l'auteur.
-* Un component pour l'affichage de la citation.
+* Si l'autre chercher à plus qu'une citation, vous pouvez affichez la première trouvé ou toutes les afficher.
 
 # Élément fourni
 * Fichier quotes.json à utiliser pour les citations.
-
-# Extra
-* Si l'auteur à plus qu'une citation, faites affichez toutes les citations.
-* Faites que la recherche marche si le nom partiel est donné ("Albert" pourrait donner une citation de "Albert Einstein" ou "Albert Camus" par exemple).
