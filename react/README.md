@@ -1,4 +1,4 @@
-# Final partie 1 - Création d'une application React
+# Final partie React - Création d'une application React
 
 Ce projet a pour but de vous faire construire une
 application React.
